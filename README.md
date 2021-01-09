@@ -9,6 +9,19 @@
 
 -Open the package in unity and load all assets
 
+## Project Five
+
+### Functionality
+
+-This project's purpose was to create a "bullet hell" type of game where the player can shoot, collect, and collide with other objects
+
+-**Object Pooling** was used to make this project efficient and smooth
+
+<img src="https://github.com/casonbrinson-2021/Unity-trials/blob/main/images/.png" alt="drawing" style="width:200px;"/>
+<img src="https://github.com/casonbrinson-2021/Unity-trials/blob/main/images/.png" alt="drawing" style="width:200px;"/>
+<img src="https://github.com/casonbrinson-2021/Unity-trials/blob/main/images/.png" alt="drawing" style="width:200px;"/>
+
+
 
 ## Project Four
 
